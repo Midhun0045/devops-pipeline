@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "RUN": "node index.js",
+    "TEST": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midhun0045/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midhun0045/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/Midhun0045/devops-pipeline#readme"
+}
